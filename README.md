@@ -1,4 +1,4 @@
-# circular_games
+# Circular games
 
 Three kinds of games :
 - collect
